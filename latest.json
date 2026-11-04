@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.59",
-    "notes":  "修复顶部「排序」按钮未显示（布局被覆盖）；旧配置里的「默认」排序自动切为按内存排序，确保内存降序为默认效果。",
+    "version":  "2.1.60",
+    "notes":  "托盘菜单新增「以管理员身份重启」，用于退出腾讯电脑管家等带自我保护的软件（普通权限无法结束）。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "00535687a2093e9acc9318eb20d09fd62c7fd6074c8cd6a2f79ef71607f321bb"
+    "sha256":  "1fa51a0b7e7f301945cc908514f209234530763c1ec6057d807bb789c70d0e35"
 }
