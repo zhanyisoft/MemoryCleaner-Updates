@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.54",
-    "notes":  "更新公告地址支持指向自有服务器：优先读取  中的 URL，缺省仍回落 GitHub 公告仓（老客户不受影响）；方便后续把更新检查迁到阿里云服务器。",
+    "version":  "2.1.55",
+    "notes":  "贴边自动隐藏：把窗口拖到屏幕左/右/上边缘，松手后自动滑出屏幕只留 5px 边条；鼠标移到边条上自动滑回，移开再收起（类似 QQ 贴边）。关闭或拖离边缘会恢复正常，不会把滑出位置存进配置。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "953182bedb40ecb0234b6d3e74008526188f43f29b3bd9d8c89d07260706a8d8"
+    "sha256":  "825633d465f9b2c6eb641792cdf6de2494687ec34d092d9280da738973d57592"
 }
