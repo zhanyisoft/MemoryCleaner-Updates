@@ -1,6 +1,6 @@
 {
     "version":  "2.1.84",
     "notes":  "国内外统一使用自有站点更新与下载（https://itzhanyi.top），GitHub 仓库转为私有、不再对外暴露；官网移除 GitHub 入口。",
-    "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
+    "url":  "https://itzhanyi.top/products/memorycleaner/",
     "sha256":  "9ca3593dee415bf0ec46c0ea8c386b4cd35f8e0712011c11b538762e6bf1d112"
 }
