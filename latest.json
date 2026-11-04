@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.77",
-    "notes":  "清理量统计口径与其他清理工具对齐：主数字改为「本次处理的工作集总量」（GB 级），括号内保留真实释放量，不再显得保守。",
+    "version":  "2.1.78",
+    "notes":  "优化最大化/还原切换：只在 SHOWWINDOW 与 SIZE 状态变化时整窗重绘，WM_ACTIVATE 不再触发全量重绘，消除切换时的卡顿与花屏。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "6ab8cc7503aa1b3a411d4688225872134e1b8fce4ddcae7653c29b54efb09ae0"
+    "sha256":  "96cf515ecb474a6ac4db4281e2cb50e6448fa24f39f701dd3a7a119149246d80"
 }
