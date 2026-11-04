@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.63",
-    "notes":  "按钮真动画：悬停/按下颜色平滑渐变（smoothstep 16ms 逐帧），按下时按钮轻微缩放回弹；保留蓝/琥珀/红配色。",
+    "version":  "2.1.64",
+    "notes":  "清理内存释放量统计更贴合真实效果：等待 0.4 秒后再读系统可用内存，取「系统可用增量 / 进程工作集减少量」的较大值；超过 1GB 以 GB 显示。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "b0299bcf2a07bc8f845846e7d59506ef73780050a59af2ab48296b1713682f86"
+    "sha256":  "d201ad7ac7831a47afb952ed7bba75c8f5144662f8dbd8ced3070398ca2c2c40"
 }
