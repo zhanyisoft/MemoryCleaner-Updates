@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.57",
-    "notes":  "底部「清理内存」改为清理整机所有可清理进程（不再要求先选中）；需要只清理选中项时用 F7 或右键「释放内存」。",
+    "version":  "2.1.58",
+    "notes":  "排序规则调整：按内存排序时内存占用为第一优先级（固定/运行状态仅次优先级）；整机清理跳过 8MB 以下进程，速度更快、释放量统计更准。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "1ffa46c0fc22121500caec0a0f4d4b869a4dc27d44f463c7fd9eb22a3843bfe2"
+    "sha256":  "d0910e12cba1636ff439094937d4f7eaf3cf6bc78f26d9f2c909c565037a64ca"
 }
