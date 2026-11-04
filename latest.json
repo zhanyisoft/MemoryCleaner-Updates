@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.53",
-    "notes":  "激活窗口高 DPI 修复（按真实 DPI 缩放控件，机器码完整显示、复制按钮不再被裁切）；顶部新增「排序」按钮（默认按内存占用降序，点击循环 内存/名称/CPU/默认，与托盘菜单联动）；部署脚本修复（`deploy.cmd` 改用绝对路径调用 `build.cmd`，解决本机 `NoDefaultCurrentDirectoryInExePath=1` 导致的构建失败）",
+    "version":  "2.1.54",
+    "notes":  "更新公告地址支持指向自有服务器：优先读取  中的 URL，缺省仍回落 GitHub 公告仓（老客户不受影响）；方便后续把更新检查迁到阿里云服务器。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "a9fde4897270f1ac5371788538d628b4bcc4e7ec2d01db7478bd6b97794b13bd"
+    "sha256":  "953182bedb40ecb0234b6d3e74008526188f43f29b3bd9d8c89d07260706a8d8"
 }
