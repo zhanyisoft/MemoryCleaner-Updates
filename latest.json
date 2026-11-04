@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.81",
-    "notes":  "底部状态栏改为显示整机内存占用（已用/总量/百分比，与其他监控工具口径一致），不再只汇总软件列表。",
+    "version":  "2.1.83",
+    "notes":  "国内更新源改为自有阿里云服务器 https://itzhanyi.top/latest.json（不再使用 Gitee，闭源分发），海外仍走 GitHub，两者失败互备；同时并入并行会话的窄窗按钮自适应改动。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "a9048c037ff30da39f0f0ea65f37ac43a75d3065d26b5853e805079daf119a08"
+    "sha256":  "1e20464d7e6f4b1b30b16d17025b986a03d3ea4fd62d7b7e17e6f4ee570040a5"
 }
