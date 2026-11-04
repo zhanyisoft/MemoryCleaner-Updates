@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.73",
-    "notes":  "修复最小化后还原出现花屏：无边框自绘窗口在 WM_SHOWWINDOW/WM_ACTIVATE 时强制整窗重绘（Invalidate(true)+Update）。",
+    "version":  "2.1.74",
+    "notes":  "清理内存时尝试清空系统文件缓存（SetSystemFileCacheSize，需管理员权限），释放量更接近其他清理工具；普通权限下自动跳过，不影响其他功能。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "2da88093ca51c56739710afadc7bb17b533b00af06541dc22f15f357370b5391"
+    "sha256":  "e972e0e7d4b1e147d3f2171e9ad62815fa0bd01c318ccab1aadfe4981ebb1c0d"
 }
