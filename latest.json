@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.61",
-    "notes":  "清理内存的「已释放 X MB」改为按系统可用物理内存的真实增量计算（逐进程差值因 Windows 延迟回收会偏小或为 0）；清理跳过 8MB 以下进程。",
+    "version":  "2.1.62",
+    "notes":  "按钮配色与点击动效：清理内存=蓝色主操作、退出选中=琥珀色、强制结束=红色；所有按钮点击时闪动反馈，悬停/按下有颜色过渡。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "bee59a49f04918f95c9dfc77537928a6580d342d7a00d6830f34a3b32a3663bb"
+    "sha256":  "761881c807f525051fe62419e708d0048356314908425b9fbe6c6cbb351a8862"
 }
