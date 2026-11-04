@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.71",
-    "notes":  "按用户 IP 所在国家自动选择界面语言：首次运行请求一次 ipinfo.io 获取国家码并落地到 lang.txt（之后不再联网），离线/失败回退中文；只有存在对应语言包才会切换。",
+    "version":  "2.1.72",
+    "notes":  "托盘右键新增「Language / 语言」子菜单：列出 lang 目录下所有语言包（含中文），点选后写入 lang.txt 并自动重启生效；菜单里可直接打开语言包目录。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "9486f8d8f3ece0b17784c9189ea8831d20ae07698b56cd800fd2b5fafca1a6a2"
+    "sha256":  "15ab21e66e2cfce4626c608b4f11be3d814e5602a307bf379dbabe8ea3904cb7"
 }
