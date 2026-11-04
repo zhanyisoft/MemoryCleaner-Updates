@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.65",
-    "notes":  "修复清理内存后按钮区域花屏：自定义绘制先擦净整块背景（按压缩放时圆角矩形缩小会残留旧像素），并移除清理过程中的 UI 线程阻塞与闪动。",
+    "version":  "2.1.66",
+    "notes":  "清理内存提示更直观：同时显示「已释放 X」与「本次清理 Y MB / N 个程序」，不再显得保守。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "1dfa9308c10100340c9c509e5ac84e9e19bbe0d3d0486ccbd7c4ac8d2cad1cbb"
+    "sha256":  "cb43bc2f9be0225d2c96cada0ed38cb52f70614ac93eea3d21df8efc4922c11d"
 }
