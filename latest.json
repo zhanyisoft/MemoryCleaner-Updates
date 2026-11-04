@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.80",
-    "notes":  "底部三个主按钮按当前语言实测文字宽度自适应排布，修复英文界面下字体被裁切。",
+    "version":  "2.1.81",
+    "notes":  "底部状态栏改为显示整机内存占用（已用/总量/百分比，与其他监控工具口径一致），不再只汇总软件列表。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "cc0fb0a3f7c9d5a5a5fe05e49e1f1591d689c6333f78f55dfae677ec6195910c"
+    "sha256":  "a9048c037ff30da39f0f0ea65f37ac43a75d3065d26b5853e805079daf119a08"
 }
