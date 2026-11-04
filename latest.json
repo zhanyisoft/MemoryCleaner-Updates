@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.60",
-    "notes":  "托盘菜单新增「以管理员身份重启」，用于退出腾讯电脑管家等带自我保护的软件（普通权限无法结束）。",
+    "version":  "2.1.61",
+    "notes":  "清理内存的「已释放 X MB」改为按系统可用物理内存的真实增量计算（逐进程差值因 Windows 延迟回收会偏小或为 0）；清理跳过 8MB 以下进程。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "1fa51a0b7e7f301945cc908514f209234530763c1ec6057d807bb789c70d0e35"
+    "sha256":  "bee59a49f04918f95c9dfc77537928a6580d342d7a00d6830f34a3b32a3663bb"
 }
