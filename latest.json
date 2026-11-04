@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.75",
-    "notes":  "更新检查双源：首次运行按 IP 记录国家，国内（CN/TW/HK/MO）优先走 Gitee 镜像，国外走 GitHub；首选源失败自动重试另一个。",
+    "version":  "2.1.76",
+    "notes":  "修复「关于」窗口在高 DPI 下按钮被裁切：按真实 DPI 缩放全部控件与窗口高度。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "70ffb59208458850bfbf6b3fdbd835b6ef0563d713da4adc7c18508606adce72"
+    "sha256":  "0d9d25647185d96a018fb9c2b1dd41cc6be8c43987e07caf7cdfbbbdf1664693"
 }
