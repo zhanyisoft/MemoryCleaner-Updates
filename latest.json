@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.64",
-    "notes":  "清理内存释放量统计更贴合真实效果：等待 0.4 秒后再读系统可用内存，取「系统可用增量 / 进程工作集减少量」的较大值；超过 1GB 以 GB 显示。",
+    "version":  "2.1.65",
+    "notes":  "修复清理内存后按钮区域花屏：自定义绘制先擦净整块背景（按压缩放时圆角矩形缩小会残留旧像素），并移除清理过程中的 UI 线程阻塞与闪动。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "d201ad7ac7831a47afb952ed7bba75c8f5144662f8dbd8ced3070398ca2c2c40"
+    "sha256":  "1dfa9308c10100340c9c509e5ac84e9e19bbe0d3d0486ccbd7c4ac8d2cad1cbb"
 }
