@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.78",
-    "notes":  "优化最大化/还原切换：只在 SHOWWINDOW 与 SIZE 状态变化时整窗重绘，WM_ACTIVATE 不再触发全量重绘，消除切换时的卡顿与花屏。",
+    "version":  "2.1.79",
+    "notes":  "加固最小化还原后窗口消失问题：还原为普通窗口时强制恢复任务栏按钮；配合最大/还原重绘优化。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "96cf515ecb474a6ac4db4281e2cb50e6448fa24f39f701dd3a7a119149246d80"
+    "sha256":  "2f74c9763543f0d353b8fb117222eede9c861801571763b8390158485813b69e"
 }
