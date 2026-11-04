@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.74",
-    "notes":  "清理内存时尝试清空系统文件缓存（SetSystemFileCacheSize，需管理员权限），释放量更接近其他清理工具；普通权限下自动跳过，不影响其他功能。",
+    "version":  "2.1.75",
+    "notes":  "更新检查双源：首次运行按 IP 记录国家，国内（CN/TW/HK/MO）优先走 Gitee 镜像，国外走 GitHub；首选源失败自动重试另一个。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "e972e0e7d4b1e147d3f2171e9ad62815fa0bd01c318ccab1aadfe4981ebb1c0d"
+    "sha256":  "70ffb59208458850bfbf6b3fdbd835b6ef0563d713da4adc7c18508606adce72"
 }
