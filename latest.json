@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.79",
-    "notes":  "加固最小化还原后窗口消失问题：还原为普通窗口时强制恢复任务栏按钮；配合最大/还原重绘优化。",
+    "version":  "2.1.80",
+    "notes":  "底部三个主按钮按当前语言实测文字宽度自适应排布，修复英文界面下字体被裁切。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "2f74c9763543f0d353b8fb117222eede9c861801571763b8390158485813b69e"
+    "sha256":  "cc0fb0a3f7c9d5a5a5fe05e49e1f1591d689c6333f78f55dfae677ec6195910c"
 }
