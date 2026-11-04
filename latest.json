@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.67",
-    "notes":  "新增多语言支持：语言包放在安装目录 lang 文件夹，文件名为语言代码（如 en-US.txt），内容每行「原文 + 制表符 + 译文」，运行期加载，新增语言不用重新编译。切换语言：在 %LOCALAPPDATA%\\QuitApp\\lang.txt 写入语言代码后重启。首批覆盖主窗口标题、搜索提示、三个主按钮、置顶与排序按钮，附英文语言包示例，详见 docs/多语言.md。",
+    "version":  "2.1.68",
+    "notes":  "清理内存覆盖全系统进程（不再只清理软件列表里的程序），释放量统计与其他清理工具口径一致，数字显著更接近真实效果。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "942cc7e5e015f67b587820ed2d2b70eb782a604528c6f0ecb3b772e8e8d49d7b"
+    "sha256":  "3c5302c7e4272eca1eba4ffb086964a7380f4316f981fca9791d10c1afa78552"
 }
