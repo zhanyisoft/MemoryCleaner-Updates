@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.66",
-    "notes":  "清理内存提示更直观：同时显示「已释放 X」与「本次清理 Y MB / N 个程序」，不再显得保守。",
+    "version":  "2.1.67",
+    "notes":  "新增多语言支持：语言包放在 lang\u003ccode\u003e.txt（原文\u003cTAB\u003e译文），运行期加载；切换语言只需在 %LOCALAPPDATA%QuitApplang.txt 写语言代码。首批覆盖主窗口标题/搜索/三个主按钮/置顶/排序，附英文语言包示例，详见 docs/多语言.md。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "cb43bc2f9be0225d2c96cada0ed38cb52f70614ac93eea3d21df8efc4922c11d"
+    "sha256":  "7a1e3315ce3cef0e19cdcf634cfd33f3ad281f623e055b0bf9314ed7d80e3d6c"
 }
