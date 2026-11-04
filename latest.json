@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.69",
-    "notes":  "修复「退出选中 / 强制结束」后按钮区域花屏：移除按压缩放绘制（缩小后的圆角矩形会偏离控件区域，部分环境下残留旧像素）。",
+    "version":  "2.1.70",
+    "notes":  "花屏根因修复：无边框自绘窗体未启用整窗双缓冲，批量退出/强制结束后重绘残留像素。主窗体已开启 OptimizedDoubleBuffer。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "9be45ad174e3008eb1856ec67549d04684bf685ff69f312e070c860b7079f084"
+    "sha256":  "af62550e952d1d857397e5820704c8ec89653765a9c9a13a127ae26c21f0a9e2"
 }
