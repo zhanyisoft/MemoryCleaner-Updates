@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.56",
-    "notes":  "购买联系新增 QQ 1525022095 与微信 wfxy181（原只有邮箱），激活窗口、到期提示与所有文档同步更新；贴边自动隐藏支持左/右/上三个边缘；托盘模式下手动「检查更新」新增气泡反馈（已是最新/检查失败）。",
+    "version":  "2.1.57",
+    "notes":  "底部「清理内存」改为清理整机所有可清理进程（不再要求先选中）；需要只清理选中项时用 F7 或右键「释放内存」。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "362c994012e926e85444c97ce1972508c5f936b9947fb0805c0be8f846c2311b"
+    "sha256":  "1ffa46c0fc22121500caec0a0f4d4b869a4dc27d44f463c7fd9eb22a3843bfe2"
 }
