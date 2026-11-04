@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.62",
-    "notes":  "按钮配色与点击动效：清理内存=蓝色主操作、退出选中=琥珀色、强制结束=红色；所有按钮点击时闪动反馈，悬停/按下有颜色过渡。",
+    "version":  "2.1.63",
+    "notes":  "按钮真动画：悬停/按下颜色平滑渐变（smoothstep 16ms 逐帧），按下时按钮轻微缩放回弹；保留蓝/琥珀/红配色。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "761881c807f525051fe62419e708d0048356314908425b9fbe6c6cbb351a8862"
+    "sha256":  "b0299bcf2a07bc8f845846e7d59506ef73780050a59af2ab48296b1713682f86"
 }
