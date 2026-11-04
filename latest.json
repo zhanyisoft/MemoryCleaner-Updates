@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.72",
-    "notes":  "托盘右键新增「Language / 语言」子菜单：列出 lang 目录下所有语言包（含中文），点选后写入 lang.txt 并自动重启生效；菜单里可直接打开语言包目录。",
+    "version":  "2.1.73",
+    "notes":  "修复最小化后还原出现花屏：无边框自绘窗口在 WM_SHOWWINDOW/WM_ACTIVATE 时强制整窗重绘（Invalidate(true)+Update）。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "15ab21e66e2cfce4626c608b4f11be3d814e5602a307bf379dbabe8ea3904cb7"
+    "sha256":  "2da88093ca51c56739710afadc7bb17b533b00af06541dc22f15f357370b5391"
 }
