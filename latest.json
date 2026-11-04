@@ -1,6 +1,6 @@
 {
     "version":  "2.1.67",
-    "notes":  "新增多语言支持：语言包放在 lang\u003ccode\u003e.txt（原文\u003cTAB\u003e译文），运行期加载；切换语言只需在 %LOCALAPPDATA%QuitApplang.txt 写语言代码。首批覆盖主窗口标题/搜索/三个主按钮/置顶/排序，附英文语言包示例，详见 docs/多语言.md。",
+    "notes":  "新增多语言支持：语言包放在安装目录 lang 文件夹，文件名为语言代码（如 en-US.txt），内容每行「原文 + 制表符 + 译文」，运行期加载，新增语言不用重新编译。切换语言：在 %LOCALAPPDATA%\\QuitApp\\lang.txt 写入语言代码后重启。首批覆盖主窗口标题、搜索提示、三个主按钮、置顶与排序按钮，附英文语言包示例，详见 docs/多语言.md。",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "7a1e3315ce3cef0e19cdcf634cfd33f3ad281f623e055b0bf9314ed7d80e3d6c"
+    "sha256":  "942cc7e5e015f67b587820ed2d2b70eb782a604528c6f0ecb3b772e8e8d49d7b"
 }
