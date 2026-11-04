@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.52",
-    "notes":  "检查更新（用户决定，默认开启）：启动 90 秒后静默检查新版本，每 24 小时一次，发现新版托盘气泡提醒，托盘菜单可关闭；仅访问 GitHub 读取版本公告、请求只带当前版本号，不上传任何个人数据。崩溃处理改进：崩溃时自动在本地写入 minidump 与崩溃详情（%LOCALAPPDATA%\\QuitApp\\crash\\，留最近 10 份），弹窗提示错误摘要与日志路径，可一键生成诊断包（系统信息+日志尾部+转储）发送售后，全程本地不联网。卡顿深度优化：进程路径批量解析分帧摊销（消灭约每 30 秒一次的秒级卡顿尖峰）、托盘隐藏态改轻量刷新（CPU 占用大幅下降）、进程变化监测改廉价校验和、列表刷新节流与重绘门控",
+    "version":  "2.1.53",
+    "notes":  "激活窗口高 DPI 修复（按真实 DPI 缩放控件，机器码完整显示、复制按钮不再被裁切）；顶部新增「排序」按钮（默认按内存占用降序，点击循环 内存/名称/CPU/默认，与托盘菜单联动）；部署脚本修复（`deploy.cmd` 改用绝对路径调用 `build.cmd`，解决本机 `NoDefaultCurrentDirectoryInExePath=1` 导致的构建失败）",
     "url":  "https://github.com/zhanyisoft/MemoryCleaner-Updates/releases/latest",
-    "sha256":  "40a882a5c754c1bdb3b66cf1d6e178bc4084e8bfe5c554dd6552e96bae5ff344"
+    "sha256":  "a9fde4897270f1ac5371788538d628b4bcc4e7ec2d01db7478bd6b97794b13bd"
 }
