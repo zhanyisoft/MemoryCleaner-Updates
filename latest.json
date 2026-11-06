@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.90",
-    "notes":  "修复最大化/还原时界面卡顿：WM_SIZE 连发时不再重复整窗重绘，只在最大化与普通状态真正切换时重绘一次。",
+    "version":  "2.1.91",
+    "notes":  "程序右键菜单第一项改为「释放内存」，蓝色加粗强调（本产品是内存清理工具）。",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "f692956a06cb951dc2bf657ef97785ec75978af12e1e9f26644044725496a31e"
+    "sha256":  "237b7dc81a65457fd688fa0353c6e4c6622515fb5bf2cebb062bb50e86e5087f"
 }
