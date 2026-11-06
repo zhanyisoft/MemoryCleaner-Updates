@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.91",
-    "notes":  "程序右键菜单第一项改为「释放内存」，蓝色加粗强调（本产品是内存清理工具）。",
+    "version":  "2.1.92",
+    "notes":  "最大化/还原不再强制整窗重绘（实测 UI 线程最长阻塞 165ms → 59ms），依赖子控件随 WM_SIZE 自然重绘。",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "237b7dc81a65457fd688fa0353c6e4c6622515fb5bf2cebb062bb50e86e5087f"
+    "sha256":  "4967e07c6c8c4fddfdbd1ac19f6ba64b69d5ac681554dbf6793ed7be22bac074"
 }
