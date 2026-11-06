@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.92",
-    "notes":  "最大化/还原不再强制整窗重绘（实测 UI 线程最长阻塞 165ms → 59ms），依赖子控件随 WM_SIZE 自然重绘。",
+    "version":  "2.1.93",
+    "notes":  "进程右键菜单新增「卸载该程序」——按注册表匹配目标程序的卸载命令（MSI 自动 /I→/X），系统组件与本程序自身拒绝；中英文界面同步。",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "4967e07c6c8c4fddfdbd1ac19f6ba64b69d5ac681554dbf6793ed7be22bac074"
+    "sha256":  "5291512c826e0dfee27c144476d9b7cf72599d17d5cbbcc85a8abc417b0e438f"
 }
