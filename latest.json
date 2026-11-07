@@ -1,6 +1,6 @@
 {
-    "version":  "2.1.93",
-    "notes":  "进程右键菜单新增「卸载该程序」——按注册表匹配目标程序的卸载命令（MSI 自动 /I→/X），系统组件与本程序自身拒绝；中英文界面同步。",
+    "version":  "2.2.0",
+    "notes":  "v2.2.0",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "5291512c826e0dfee27c144476d9b7cf72599d17d5cbbcc85a8abc417b0e438f"
+    "sha256":  "fd752aeb7897e5761c9e5b69c40ad60c15b309f3891b7609a527afc68fc980c6"
 }
