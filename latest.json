@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.2",
-    "notes":  "改成真正的永久免费——授权没有到期日，「关于/托盘」里不再显示剩余天数，会员码仍然可激活。",
+    "version":  "2.2.3",
+    "notes":  "激活窗口/关于/托盘不再显示到期日，统一显示「永久」；产品无时间限制。",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "62ea9328dfe40f72fbca563a6a0fa544c6062ef760211a6547f4a3a33f702ef5"
+    "sha256":  "6b1006873654013e4b9cf3b623ee3ad66f89fa1707eeabd7403646067f209263"
 }
