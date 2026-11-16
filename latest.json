@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.12",
-    "notes":  "修复部分 AutoHotkey 脚本不显示——当列表里已有同名的 AHK 旧行时，摘除 PID 会先把它清空、再接管时行已被删，脚本从列表消失。",
+    "version":  "2.2.13",
+    "notes":  "修复窗口高度较小时，列表滚到下面后每次自动刷新都会跳回顶部的滚动回弹——重建列表时在重绘关闭期间设 TopItem 只做「最小滚动」，目标行被贴到视口底部；现在滚动恢复延后到重绘恢复之后并做像素级校正。",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "fd42b7433be827a40fc43376e047ceade87d20655579e9b9cab36406c1e39e7c"
+    "sha256":  "c1df371a55daf60a20afa0dabfceb032536fce3631172c4f9f8bb75a9e38474f"
 }
