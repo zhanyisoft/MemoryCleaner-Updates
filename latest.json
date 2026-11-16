@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.7",
-    "notes":  "底部新增「取消选中」按钮（四按钮等宽，最小 480 宽下自动缩字号不裁字）。",
+    "version":  "2.2.8",
+    "notes":  "「清理内存」恢复默认全量——选中软件时只清选中，未选中时清理全部运行中程序。",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "77808bebb355a38875082c4fde5346e9dd01105525b54c28d083161548a94f85"
+    "sha256":  "95ae314fb5cf1e621442afac810db9c3b5dc35b6ed80df921eb0bdf881a8359f"
 }
