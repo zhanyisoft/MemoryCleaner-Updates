@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.8",
-    "notes":  "「清理内存」恢复默认全量——选中软件时只清选中，未选中时清理全部运行中程序。",
+    "version":  "2.2.9",
+    "notes":  "修复后台（托盘）状态下双击桌面图标 / Flow Launcher 启动唤不出主界面——第二实例改为按窗口标题直找主窗口定向唤醒（广播对隐藏窗口不可靠）。",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "95ae314fb5cf1e621442afac810db9c3b5dc35b6ed80df921eb0bdf881a8359f"
+    "sha256":  "5557091097638862ca6d1a8556b3f616a28899340067eea909e25bd8b9212e28"
 }
