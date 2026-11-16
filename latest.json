@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.5",
-    "notes":  "贴顶缩回后唤出补强——鼠标碰到屏幕最上沿（含被 MyDockFinder 菜单栏遮挡的那条）即可唤出；托盘/热键/Flow Launcher 唤出时强制前置，不再被最大化浏览器盖住。",
+    "version":  "2.2.6",
+    "notes":  "取消选中补齐——点窗口内任意空白处（顶部留白、列表留白、底部状态栏、窗体背景）都能取消选中；右键菜单「取消选中」保留；Esc 亦可。",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "cd0126640f2ed32e0815fad7f545a0a7111f468e4862e0f2eac7665a2551b5d5"
+    "sha256":  "313bed8fb6a4d1a742b30e0bed0885774513517c08a4fd886cc970f89d3ff125"
 }
