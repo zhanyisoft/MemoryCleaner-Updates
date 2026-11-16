@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.4",
-    "notes":  "修复贴到屏幕顶部（MyDockFinder 等第三方 Dock）缩回后托盘/热键/鼠标都唤不出；「清理内存」未选中软件时不再默认清全机，改为提示先选软件；软件显示名统一为「展翼内存清理」。",
+    "version":  "2.2.5",
+    "notes":  "贴顶缩回后唤出补强——鼠标碰到屏幕最上沿（含被 MyDockFinder 菜单栏遮挡的那条）即可唤出；托盘/热键/Flow Launcher 唤出时强制前置，不再被最大化浏览器盖住。",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "ee5cdab8b7505926324ed14ae8020606d623f3b2a978064b99f9b79e7d0d5528"
+    "sha256":  "cd0126640f2ed32e0815fad7f545a0a7111f468e4862e0f2eac7665a2551b5d5"
 }
