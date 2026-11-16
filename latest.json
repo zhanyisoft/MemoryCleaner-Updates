@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.9",
-    "notes":  "修复后台（托盘）状态下双击桌面图标 / Flow Launcher 启动唤不出主界面——第二实例改为按窗口标题直找主窗口定向唤醒（广播对隐藏窗口不可靠）。",
+    "version":  "2.2.10",
+    "notes":  "新增全局快捷键「双击左 Ctrl = 清理全部内存」（不吞按键、两次之间按过其他键不算双击）；底部「取消选中」按钮。",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "5557091097638862ca6d1a8556b3f616a28899340067eea909e25bd8b9212e28"
+    "sha256":  "9c4b187b3d010f4b33b9db6dcb0ea1ca8cbcacb76df852455c5eb211e9f3192a"
 }
