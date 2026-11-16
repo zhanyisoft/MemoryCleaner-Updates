@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.3",
-    "notes":  "激活窗口/关于/托盘不再显示到期日，统一显示「永久」；产品无时间限制。",
+    "version":  "2.2.4",
+    "notes":  "修复贴到屏幕顶部（MyDockFinder 等第三方 Dock）缩回后托盘/热键/鼠标都唤不出；「清理内存」未选中软件时不再默认清全机，改为提示先选软件；软件显示名统一为「展翼内存清理」。",
     "url":  "https://itzhanyi.top/products/memorycleaner/",
-    "sha256":  "6b1006873654013e4b9cf3b623ee3ad66f89fa1707eeabd7403646067f209263"
+    "sha256":  "ee5cdab8b7505926324ed14ae8020606d623f3b2a978064b99f9b79e7d0d5528"
 }
